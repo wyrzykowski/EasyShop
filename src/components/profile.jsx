@@ -3,7 +3,7 @@ import userPic from './user.svg';
 var profileStyle={
      backgroundColor: '#91d4ff',
      color: '#000',
-     width: '30%',
+     width: '15%',
     float: 'right',
     textAlign: 'center',
     height: '100vh'
