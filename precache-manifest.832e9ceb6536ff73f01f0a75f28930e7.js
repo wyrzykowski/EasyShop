@@ -8,15 +8,15 @@ self.__precacheManifest = [
     "url": "/EasyShop/static/js/runtime~main.0d57b655.js"
   },
   {
-    "revision": "355cead0a8814690c2b1",
-    "url": "/EasyShop/static/js/main.355cead0.chunk.js"
+    "revision": "ea37bef3f8a267ac3604",
+    "url": "/EasyShop/static/js/main.ea37bef3.chunk.js"
   },
   {
     "revision": "32d9605dc6eddea583e8",
     "url": "/EasyShop/static/js/1.32d9605d.chunk.js"
   },
   {
-    "revision": "355cead0a8814690c2b1",
+    "revision": "ea37bef3f8a267ac3604",
     "url": "/EasyShop/static/css/main.b54e92ce.chunk.css"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/EasyShop/static/css/1.861ea26d.chunk.css"
   },
   {
-    "revision": "04e06b327d3a020f92980380f04ff891",
+    "revision": "e2240b26ad4a70cfb1cf95036a70304c",
     "url": "/EasyShop/index.html"
   }
 ];

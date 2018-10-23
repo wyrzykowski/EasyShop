@@ -1,16 +1,16 @@
 {
   "main.css": "/EasyShop/static/css/main.b54e92ce.chunk.css",
-  "main.js": "/EasyShop/static/js/main.355cead0.chunk.js",
-  "main.js.map": "/EasyShop/static/js/main.355cead0.chunk.js.map",
+  "main.js": "/EasyShop/static/js/main.ea37bef3.chunk.js",
+  "main.js.map": "/EasyShop/static/js/main.ea37bef3.chunk.js.map",
   "static/css/1.861ea26d.chunk.css": "/EasyShop/static/css/1.861ea26d.chunk.css",
   "static/js/1.32d9605d.chunk.js": "/EasyShop/static/js/1.32d9605d.chunk.js",
   "static/js/1.32d9605d.chunk.js.map": "/EasyShop/static/js/1.32d9605d.chunk.js.map",
   "runtime~main.js": "/EasyShop/static/js/runtime~main.0d57b655.js",
   "runtime~main.js.map": "/EasyShop/static/js/runtime~main.0d57b655.js.map",
-  "static/css/1.861ea26d.chunk.css.map": "/EasyShop/static/css/1.861ea26d.chunk.css.map",
-  "static/media/user.svg": "/EasyShop/static/media/user.f29f6e97.svg",
   "static/css/main.b54e92ce.chunk.css.map": "/EasyShop/static/css/main.b54e92ce.chunk.css.map",
+  "static/media/user.svg": "/EasyShop/static/media/user.f29f6e97.svg",
+  "static/css/1.861ea26d.chunk.css.map": "/EasyShop/static/css/1.861ea26d.chunk.css.map",
   "index.html": "/EasyShop/index.html",
-  "precache-manifest.1413afdda787afa319e944c9e8b172e8.js": "/EasyShop/precache-manifest.1413afdda787afa319e944c9e8b172e8.js",
+  "precache-manifest.832e9ceb6536ff73f01f0a75f28930e7.js": "/EasyShop/precache-manifest.832e9ceb6536ff73f01f0a75f28930e7.js",
   "service-worker.js": "/EasyShop/service-worker.js"
 }
