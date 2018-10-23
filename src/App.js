@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
+
 import  './App.css';
 import Basket from'./components/basket';
 import Profile from './components/profile';
@@ -18,7 +18,7 @@ class App extends Component {
           <NavBar/>
         </header>
         <div className="Shop-content">
-          <Profile/>
+          <Profile userName="Admin"/>
           <ShopShelf/>
         </div>
         
