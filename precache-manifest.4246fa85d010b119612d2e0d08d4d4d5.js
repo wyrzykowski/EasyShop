@@ -4,16 +4,16 @@ self.__precacheManifest = [
     "url": "/EasyShop/static/media/user.f29f6e97.svg"
   },
   {
-    "revision": "06092d5370ac343b2692",
-    "url": "/EasyShop/static/css/main.9305bcce.chunk.css"
+    "revision": "baee1ff0cc6f383dbd02",
+    "url": "/EasyShop/static/css/main.09b6dd8d.chunk.css"
   },
   {
     "revision": "6461dd68313f5dda461c7033769aae00",
     "url": "/EasyShop/static/media/7.6461dd68.jpeg"
   },
   {
-    "revision": "7a83208662e8cd9fb95d",
-    "url": "/EasyShop/static/js/1.7a832086.chunk.js"
+    "revision": "0ed6554fcbca11c632ad",
+    "url": "/EasyShop/static/js/1.0ed6554f.chunk.js"
   },
   {
     "revision": "0d57b655bfc16a58af38",
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/EasyShop/static/media/unknow.a618705f.png"
   },
   {
-    "revision": "06092d5370ac343b2692",
-    "url": "/EasyShop/static/js/main.06092d53.chunk.js"
+    "revision": "baee1ff0cc6f383dbd02",
+    "url": "/EasyShop/static/js/main.baee1ff0.chunk.js"
   },
   {
     "revision": "e0b265d1247815c3c6107c9436d495d9",
@@ -44,11 +44,11 @@ self.__precacheManifest = [
     "url": "/EasyShop/static/media/6.2a0d9537.jpg"
   },
   {
-    "revision": "7a83208662e8cd9fb95d",
-    "url": "/EasyShop/static/css/1.0ef77648.chunk.css"
+    "revision": "0ed6554fcbca11c632ad",
+    "url": "/EasyShop/static/css/1.fd8a648c.chunk.css"
   },
   {
-    "revision": "017d27d634427cabe231562c31b77c93",
+    "revision": "e1052a185b094b1ea86de922776711a5",
     "url": "/EasyShop/index.html"
   }
 ];
