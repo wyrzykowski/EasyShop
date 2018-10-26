@@ -8,18 +8,56 @@ import Item from './components/item';
 import ItemCounter from './components/itemCounter';
 import Products from './components/products';
 import ShopShelf from './components/shopShelf';
+import Category from './components/category';
 
 
 class App extends Component {
+
+  state = { 
+    bought:[],
+    total:0
+  };
+
+
+  handleBuy=(itemId,itemPrice)=>
+  {
+
+      const bought = [...this.state.bought];// klonuje tablice
+      var total = this.state.total;
+
+      this.newMethod(bought, itemId);
+      total=parseFloat(total)+parseFloat(itemPrice);
+      this.setState({bought});
+      this.setState({total});
+  
+      //console.log(this.ShopShelf.getProducts);
+
+  
+      
+      //console.log(this.state.bought);
+
+  }
+  newMethod(bought, itemId) {
+    bought.push(itemId);
+  }
+ 
   render() {
+   
     return (
+    
       <div className="App">
-        <header className="App-header">
-          <NavBar/>
-        </header>
-        <div className="Shop-content">
           <Profile userName="Admin"/>
-          <ShopShelf/>
+         
+        <header className="App-header">
+          <NavBar bought={this.state.bought} total={this.state.total}/>
+        </header>
+        <Category/>
+        
+        <div className="Shop-content">
+        <ShopShelf onBuy={this.handleBuy}/>
+      
+ 
+       
         </div>
         
         

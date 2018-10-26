@@ -6,8 +6,7 @@ class Basket extends Component {
     render() { 
         return (
             <div className="Basket">
-                <p>Baskset test</p>
-                <ItemCounter/>
+                <ItemCounter bought={this.props.bought} total={this.props.total}/>
             </div>
           );
     }

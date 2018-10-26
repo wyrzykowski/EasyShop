@@ -1,12 +1,15 @@
 import React, { Component } from 'react';
 import userPic from './user.svg';
 var profileStyle={
-     backgroundColor: '#91d4ff',
+    position: 'fixed',
+     backgroundColor: '#e8f0f2',
      color: '#000',
      width: '15%',
-    float: 'right',
+    right: '0',
+    paddingTop: '10vh',
     textAlign: 'center',
-    height: '100vh'
+    height: '100vh',
+    margin: '0vh'
 };
 
 var profileImage = {

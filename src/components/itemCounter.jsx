@@ -5,7 +5,8 @@ class ItemCounter extends Component {
     render() { 
         return ( 
             <div>
-                <p>Item counter test</p>
+                <h4 >KUPIONE: {this.props.bought.length}</h4>
+                <h5>Suma: {this.props.total+"$"}</h5>
             </div>
          );
     }

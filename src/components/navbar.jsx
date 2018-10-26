@@ -1,11 +1,15 @@
 import React, { Component } from 'react';
 import Basket from './basket';
-
+var navStyle={
+    position: 'fixed',
+    width: '100%',
+    zIndex:"1",
+};
 class NavBar extends Component {
     //state = {  }
     render() { 
         return (
-            <div className="NavBar">
+            <div className="NavBar" style={navStyle}>
                     <nav className="navbar navbar-expand-lg navbar-light bg-info">
                         <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
                             <span className="navbar-toggler-icon"></span>
@@ -23,7 +27,7 @@ class NavBar extends Component {
                                 <a className="nav-link" href="#">About Us</a>
                             </li>
                             </ul>
-                            <Basket/>
+                            <Basket bought={this.props.bought} total={this.props.total}/>
                         </div>
                     </nav>
                                     
