@@ -1,1 +1,1 @@
-## EasyShop Simple frontend App written using React.js
+## EasyShop - Simple frontend App written using React.js
